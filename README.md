@@ -1,3 +1,5 @@
+Electronic Accessories Sales Analysis & Dashboard using Excel
+
 This Excel-based sales dashboard provides a comprehensive view of sales performance metrics.
 It leverages Excel's powerful features to analyze and visualize sales data, offering insights.
 Features
